@@ -9,6 +9,15 @@
         {"course_id": "C101", "grade": 85},
         {"course_id": "C102", "grade": 78}
       ]
+    },
+    {
+      "id": "I001",
+      "name": "Ahmed",
+      "type": "instructor",
+      "username": "ahmed",
+      "password": "5678",
+      "expertise": ["Programming"],
+      "interested_courses": []
     }
   ]
   
