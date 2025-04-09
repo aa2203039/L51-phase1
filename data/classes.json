@@ -1,0 +1,10 @@
+[
+    {
+      "course_id": "C103",
+      "instructor_id": "I200",
+      "enrolled_students": [],
+      "pending_students": [],
+      "capacity": 30,
+      "validated": false
+    }
+  ]  
